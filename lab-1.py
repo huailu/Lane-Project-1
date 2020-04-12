@@ -14,8 +14,10 @@ except ValueError:
   except ValueError:
       print("No.. input is not a number. It's a string")
 '''
+
+
 number_list=[]
-square_sum=0
+max_turn=0
 
 while True:
     val = input("Enter your value: ")
@@ -29,18 +31,31 @@ while True:
         else: 
             print ("Input must be an integer number, please try again. OR input quit to exit")
 
-def isHappy(num)
-    for i in range(len(num)):
-    square_sum=square_sum+int(val[i])**2
+def isHappy(num):
+    global max_turn
+    square_sum=0
+    l_num=str(num)
+    for i in range(len(l_num)):
+        square_sum=square_sum+int(l_num[i])**2
+    max_turn+=1
     if square_sum==1:
+        number_list.append(square_sum)
         return 1
-    elif max=100:
+    elif square_sum in number_list:
+        return 0
+    elif max_turn==100:
         return 3
     else:
-        isHappy(sqare_sum)
-         
+        number_list.append(square_sum)
+        return isHappy(square_sum)
 
-print(square_sum)
+x=isHappy(val_int)
+print(x)
+print(number_list)
+
+
+      
+
 
 
 
