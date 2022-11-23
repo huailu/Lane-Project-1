@@ -1,0 +1,17 @@
+web-archive.hometrack.com.au
+uat-connect.hometrack.com.au
+sit-connect-stub.hometrack.com.au
+property-and-market-widgets.hometrack.com.au
+property-and-market-widgets-test.hometrack.com.au
+prod-kibana-cluster.hometrack.com.au
+prod-elasticsearch4-cluster.hometrack.com.au
+prod-elasticsearch3-cluster.hometrack.com.au
+prod-elasticsearch2-cluster.hometrack.com.au
+prod-elasticsearch1-cluster.hometrack.com.au
+core-sit-iam-50fae94fac4a.hometrack.com.au
+core-prod-rabbit-50fae94face6.hometrack.com.au
+core-prod-iam-50fae94fac82.hometrack.com.au
+core-prod-argus.hometrack.com.au
+core-presit-rabbit-0a65fa1b0b20.hometrack.com.au
+connect2.hometrack.com.au
+connect-development-interface.hometrack.com.au

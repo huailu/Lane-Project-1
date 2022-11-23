@@ -1,0 +1,96 @@
+URL,Subject,Begin,End,Issuer,Comments
+"valuations-decision-layer-test.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"valuations-decision-layer-sit.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"test-realas-api.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"test-ppr-pdf-generator.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"test-ppr-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"test-imagery-api.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"test-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"staging-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"sit-realas-api.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"sit-ppr-pdf-generator.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"sit-ppr-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"sit-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"reaio-alb-public-test.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"qbe-hpb-test-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"qbe-hpb-test-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"qbe-hpb-sit-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"qbe-hpb-sit-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"qbe-hpb-prod-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"qbe-hpb-prod-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"prod-support-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"prod-realas-api.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"prod-ppr-pdf-generator.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"prod-ppr-engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"ppr-test-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"ppr-sit-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"ppr-prod-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"pih-test-nodered.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"pih-test-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"pih-sit-nodered.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"pih-sit-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"pih-prod-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"pde-interface-test.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"pde-interface-sit.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"pde-interface-prod.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.proptrack.com","Not Before: Nov 18 00:00:00 2020 GMT","Not After : Dec 18 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"pde-engine-test.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"pde-engine-sit.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"pde-engine-prod.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.proptrack.com","Not Before: Nov 18 00:00:00 2020 GMT","Not After : Dec 18 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"internal-elb-hometrack-identity-test.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-hometrack-identity-staging.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-hometrack-identity-sit.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-hometrack-identity-production.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-hometrack-identity-prod-support.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-ui-test.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-ui-staging.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-ui-sit.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-ui-production.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-ui-prod-support.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-ui-development.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-api-test.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-api-staging.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-api-sit.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-api-production.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-api-prod-support.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"internal-elb-dsc-api-development.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"hometrack-hpb-test-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"hometrack-hpb-test-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"hometrack-hpb-sit-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"hometrack-hpb-sit-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"hometrack-hpb-prod-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"hometrack-hpb-prod-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"entitlement-service-test.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"entitlement-service-sit.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"entitlement-service-prod.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.proptrack.com","Not Before: Nov 18 00:00:00 2020 GMT","Not After : Dec 18 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"engine.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"dsc-emulator.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"db-logger-writer-test.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"db-logger-writer-sit.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"db-logger-writer-prod.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.proptrack.com","Not Before: Nov 18 00:00:00 2020 GMT","Not After : Dec 18 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"core-prod-nodered.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"connect-test-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"connect-test-documents.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"connect-staging-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"connect-staging-documents.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"connect-sit-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"connect-sit-documents.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"connect-prod-support-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"connect-prod-support-documents.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"connect-prod-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.proptrack.com","Not Before: Nov 18 00:00:00 2020 GMT","Not After : Dec 18 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"connect-prod-documents.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.proptrack.com","Not Before: Nov 18 00:00:00 2020 GMT","Not After : Dec 18 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"connect-emulator.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"connect-emulator-sit.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"connect-emulator-prod.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"connect-admin.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"connect-admin-staging.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"common-test-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, CN=*.uat.proptrack.com","Not Before: Nov 6 00:00:00 2020 GMT","Not After : Nov 1 23:59:59 2021 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1"
+"common-staging-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"common-sit-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"common-prod-support-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"common-prod-support-interface.hometrack.com.au","Subject: C=AU, ST=Victoria, L=Richmond, O=Realestate.com.au Pty Ltd, OU=IT Department, CN=*.hometrack.com.au","Not Before: Jun 4 00:00:00 2020 GMT","Not After : Sep 2 12:00:00 2022 GMT","Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+"common-prod-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"bankwest-hpb-test-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"bankwest-hpb-test-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"bankwest-hpb-sit-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"bankwest-hpb-sit-interface.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.
+"bankwest-hpb-prod-workflow.hometrack.com.au","N/A","N/A","N/A","N/A",Certificate checking failed. Unable to connect to the website.

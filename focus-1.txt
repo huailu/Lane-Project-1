@@ -1,0 +1,16 @@
+common-sit-interface.uat.proptrack.com
+common-test-interface.uat.proptrack.com
+connect-sit-documents.uat.proptrack.com
+connect-sit-interface.uat.proptrack.com
+connect-test-documents.uat.proptrack.com
+connect-test-interface.uat.proptrack.com
+panel-allocation-service-sit.uat.proptrack.com
+panel-allocation-service-test.uat.proptrack.com
+ppr-sit-interface.uat.proptrack.com
+ppr-test-interface.uat.proptrack.com
+sit-ppr-engine.uat.proptrack.com
+sit-ppr-pdf-generator.uat.proptrack.com
+sit-realas-api.uat.proptrack.com
+test-ppr-engine.uat.proptrack.com
+test-ppr-pdf-generator.uat.proptrack.com
+test-realas-api.uat.proptrack.com
